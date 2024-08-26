@@ -13,7 +13,11 @@
 2. **Install Dependencies**
    - Navigate to the backend directory and install dependencies:
      ```bash
+
      cd backend
+
+     copy .env.sample   to  .env
+
      npm install
 
      tsc -b 
